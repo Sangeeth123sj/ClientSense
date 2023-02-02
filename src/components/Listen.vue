@@ -297,7 +297,7 @@ export default {
       this.sentiment_processing = true
       console.log("enetered sentiment request")
       try {
-        const response = await  axiosInstance.post('http://127.0.0.1:8000/sentiment/', {
+        const response = await  axiosInstance.post('/sentiment/', {
           text: this.transcript,
         },
         {

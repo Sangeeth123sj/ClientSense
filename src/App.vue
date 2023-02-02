@@ -4,7 +4,7 @@ import Listen from './components/Listen.vue'
 
 <template>
    <nav class="navbar nav navbar-expand-lg navbar-light" style="background-color: #010a43;">
-    <h2 class="navbar-brand" style="color: #ffb6c1;"><strong>ClientSense</strong></h2>
+    <h2 class="navbar-brand" style="color: #ffb6c1;"><strong>Emo-Pulse</strong></h2>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -24,7 +24,7 @@ import Listen from './components/Listen.vue'
   </nav>
   <div class="container">
     <br/><br/>
-    <h1>Welcome to ClientSense</h1>
+    <h1>Welcome to Emo-Pulse</h1>
     <p>We're excited to offer you a unique experience with our AI sentiment analysis for customers.</p>
 
 

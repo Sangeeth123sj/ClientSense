@@ -82,7 +82,7 @@
             <div class="sentiment-summary">
               <h2>Sentiment Analysis</h2>
               <p class="sentiment-score"></p>
-              <p class="sentiment-text">The sentiments of customer and summary will apear here.</p>
+              <!-- <p class="sentiment-text">The sentiments of customer will apear here.</p> -->
               <div v-if="sentiment_processing">
                 <i class="fa fa-spinner fa-spin"></i>
               </div>

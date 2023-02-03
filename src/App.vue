@@ -4,7 +4,7 @@ import Listen from './components/Listen.vue'
 
 <template>
    <nav class="navbar nav navbar-expand-lg navbar-light" style="background-color: #010a43;">
-    <h2 class="navbar-brand" style="color: #ffb6c1;"><strong>Emo-Pulse</strong></h2>
+    <h2 class="navbar-brand" style="color: #ffb6c1;"><strong>Emo-Pulse</strong> <img src="/src/assets/emo_logo.png" class="align-logo" width="30" height="20" /></h2>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
